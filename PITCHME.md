@@ -10,6 +10,13 @@ _paginate: false
 
 
 ---
+
+### ADF without Dataflow
+
+![bg left 60%](assets/garden1.png)
+
+
+---
 ![bg](./assets/gradient.jpg)
 
 # <!--fit--> ETL with Azure Data Factory
