@@ -6,7 +6,10 @@ theme: uncover
 paginate: true
 _paginate: false
 ---
+![bg](assets/pics1.png)
 
+
+---
 ![bg](./assets/gradient.jpg)
 
 # <!--fit--> ETL with Azure Data Factory
