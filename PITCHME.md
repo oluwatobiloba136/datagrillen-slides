@@ -1,7 +1,7 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: ETL with ADF
+description: Azure data factory
 theme: uncover
 paginate: true
 _paginate: false
